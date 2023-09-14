@@ -2373,7 +2373,6 @@
 
 		.icon > .label {
 			display: none;
-			color: yellowgreen;
 		}
 
 /* Image */
@@ -3109,7 +3108,7 @@
 		}
 
 	.wrapper.style2 {
-		background: #313235;
+		background: #303135;
 		padding: 6rem;
 	}
 
